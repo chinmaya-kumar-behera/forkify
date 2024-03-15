@@ -7,3 +7,5 @@ Build thid Recipe Finder app using HTML, CSS, and JavaScript. Maintained a clean
 Utilized JavaScript's Fetch API to asynchronously fetch data from a third-party API capable of providing access to over one million food items, enhancing the application's functionality and usability.
 
 Worked with browsers localstorage for storing bookmarked items.
+
+visit this site - https://easy-recipe-finder.netlify.app/
